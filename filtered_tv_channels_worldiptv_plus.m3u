@@ -1,0 +1,467 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D" tvg-logo="http://myserveriptv.com:2082/images/38f974d878baf2221ecfa497ca62a3bd.png" group-title="Turkey",TR: Kanal D
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1" tvg-logo="http://myserveriptv.com:2082/images/e7439cba37ac08c95310f9d89bd0a84a.png" group-title="Turkey",TR: TRT 1
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="http://myserveriptv.com:2082/images/cf61ee8fca8701f1ae78077c3a706ac0.png" group-title="Turkey",TR: ATV HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/113560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Now" tvg-logo="" group-title="Turkey",TR: Now
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show TV" tvg-logo="http://myserveriptv.com:2082/images/1bc03a024973727689004f12d94e7549.png" group-title="Turkey",TR: Show TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Star TV" tvg-logo="http://myserveriptv.com:2082/images/3d4d73d470b83fe148cdd5954caf3367.png" group-title="Turkey",TR: Star TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8" tvg-logo="http://myserveriptv.com:2082/images/6e036ee58f7227d6de48f6183afee307.png" group-title="Turkey",TR: TV8
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7" tvg-logo="http://myserveriptv.com:2082/images/0767e21c44b691ae209f4b0c0a864aab.png" group-title="Turkey",TR: Kanal 7
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Beyaz TV" tvg-logo="" group-title="Turkey",TR: Beyaz TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Teve 2" tvg-logo="http://myserveriptv.com:2082/images/2d6d8b592c6d8fdc07d26d6f31c94942.png" group-title="Turkey",TR: Teve 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV" tvg-logo="" group-title="Turkey",TR: 360 TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="" group-title="Turkey",TR: A2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV2" tvg-logo="" group-title="Turkey",TR: TV2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV4" tvg-logo="" group-title="Turkey",TR: TV4
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Max" tvg-logo="http://myserveriptv.com:2082/images/3479b9f8abb8c88cf548a8a3ad2be065.png" group-title="Turkey",TR: Show Max
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/129812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2" tvg-logo="http://myserveriptv.com:2082/images/f9b0a1b1133d706561e8e98f122b7fdc.png" group-title="Turkey",TR: TRT 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" tvg-logo="" group-title="Turkey",TR: TRT 4K
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Avaz" tvg-logo="http://myserveriptv.com:2082/images/5bd2be803fba28f0bfce121c79c8888d.png" group-title="Turkey",TR: TRT Avaz
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Genc" tvg-logo="" group-title="Turkey",TR: TRT Genc
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Kurdi" tvg-logo="" group-title="Turkey",TR: TRT Kurdi
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Turk" tvg-logo="http://myserveriptv.com:2082/images/cc66588eb21fb9a99ccca76605bff2ac.png" group-title="Turkey",TR: TRT Turk
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV Avrupa" tvg-logo="http://myserveriptv.com:2082/images/9c5e062ad3331fbe439dd901592cd8a8.png" group-title="Turkey",TR: ATV Avrupa
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro D" tvg-logo="http://myserveriptv.com:2082/images/5bd0bc3bf7ba23803ccd9034c652161a.png" group-title="Turkey",TR: Euro D
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/129148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro Star" tvg-logo="" group-title="Turkey",TR: Euro Star
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 Avrupa" tvg-logo="http://myserveriptv.com:2082/images/d7f9acc969c8fea4b48a29a9ddb9efef.png" group-title="Turkey",TR: Kanal 7 Avrupa
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/129150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Turk" tvg-logo="http://myserveriptv.com:2082/images/62a093e4eb79f54811ed0a98ba71ec27.png" group-title="Turkey",TR: Show Turk
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 Int" tvg-logo="http://myserveriptv.com:2082/images/d27c5a861f1a1f591f7889e6e81aec28.png" group-title="Turkey",TR: TV8 Int
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL AVRUPA" tvg-logo="" group-title="Turkey",TR: KANAL AVRUPA
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal B" tvg-logo="http://myserveriptv.com:2082/images/95f431609aba0400f6866f14b0b62868.png" group-title="Turkey",TR: Kanal B
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sifir Tv" tvg-logo="" group-title="Turkey",TR: Sifir Tv
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: YOL TV" tvg-logo="" group-title="Turkey",TR: YOL TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic" tvg-logo="http://myserveriptv.com:2082/images/d933df149c62be04ea54d3a9bfb0372c.png" group-title="Turkey",TR: National Geographic
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo Wild" tvg-logo="http://myserveriptv.com:2082/images/03fffb1d10688007866188a8aca33d44.png" group-title="Turkey",TR: Nat Geo Wild
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel" tvg-logo="http://myserveriptv.com:2082/images/e42be2028f3a5db71c140fef7d466508.png" group-title="Turkey",TR: Discovery Channel
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/250369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery ID" tvg-logo="" group-title="Turkey",TR: Discovery ID
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/250368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC Earth" tvg-logo="" group-title="Turkey",TR: BBC Earth
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/301863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dmax" tvg-logo="" group-title="Turkey",TR: Dmax
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/250367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel" tvg-logo="http://myserveriptv.com:2082/images/04986cd5e5a89bb92c1a7cb28342f1a2.png" group-title="Turkey",TR: TRT Belgesel
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Belgesel" tvg-logo="" group-title="Turkey",TR: TGRT Belgesel
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN IZ" tvg-logo="http://myserveriptv.com:2082/images/a7f6f5c42cc96bae07620ebc5a90e284.png" group-title="Turkey",TR: beIN IZ
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT EXPLORE HD" tvg-logo="" group-title="Turkey",TR: VIASAT EXPLORE HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat History" tvg-logo="" group-title="Turkey",TR: Viasat History
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/250370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yaban TV" tvg-logo="" group-title="Turkey",TR: Yaban TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral TV" tvg-logo="https://16k.xyz/images/d8eb4d31461cf970f41cc20125cb4051.png" group-title="Turkey",TR: Kral TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral Pop" tvg-logo="http://myserveriptv.com:2082/images/414a1b2ad515c31a158c5e8ec252bd86.png" group-title="Turkey",TR: Kral Pop
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power Turk" tvg-logo="" group-title="Turkey",TR: Power Turk
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power Turk Taptaze" tvg-logo="" group-title="Turkey",TR: Power Turk Taptaze
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power Tv" tvg-logo="http://myserveriptv.com:2082/images/6e492321532f66674e34b9a64efcae9e.png" group-title="Turkey",TR: Power Tv
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk" tvg-logo="http://myserveriptv.com:2082/images/2cc3b329cb404213b725d2a9f6c95af5.png" group-title="Turkey",TR: Dream Turk
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Muzik" tvg-logo="http://myserveriptv.com:2082/images/a7ce87a2af4709d0349001b11dac8393.png" group-title="Turkey",TR: TRT Muzik
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 Turk HD" tvg-logo="https://16k.xyz/images/ec5221e7abe4783d9802f635e22052d9.png" group-title="Turkey",TR: NR1 Turk HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Gurme" tvg-logo="http://myserveriptv.com:2082/images/808fc32d630bbb702a81e320385fe9a5.png" group-title="Turkey",TR: beIN Gurme
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/39110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: CIFTCI TV" tvg-logo="" group-title="Turkey",TR: CIFTCI TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Koy TV" tvg-logo="" group-title="Turkey",TR: Koy TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Diyanet Tv" tvg-logo="" group-title="Turkey",TR: Diyanet Tv
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Semerkand TV" tvg-logo="" group-title="Turkey",TR: Semerkand TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: VAV" tvg-logo="" group-title="Turkey",TR: VAV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: LALEGUL TV" tvg-logo="" group-title="Turkey",TR: LALEGUL TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dost TV" tvg-logo="" group-title="Turkey",TR: Dost TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Meltem TV" tvg-logo="" group-title="Turkey",TR: Meltem TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8.5 HD" tvg-logo="http://myserveriptv.com:2082/images/e3e2e67c466d9523c63946d3bfb5b7d3.png" group-title="Turkey",TR: TV8.5 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Go" tvg-logo="http://myserveriptv.com:2082/images/dc1308f95d93d4e7352227c4dbe64ccc.png" group-title="Turkey",TR: Minika Go
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nickelodeon" tvg-logo="http://myserveriptv.com:2082/images/cce585460ae0a79d61b104664fd4ad89.png" group-title="Turkey",TR: Nickelodeon
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Çocuk" tvg-logo="http://myserveriptv.com:2082/images/073bed7701dd2e95c35c29b7f79c1a67.png" group-title="Turkey",TR: TRT Çocuk
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nick Junior" tvg-logo="https://16k.xyz/images/baf9de9c28fc83e02a855636615b4dab.png" group-title="Turkey",TR: Nick Junior
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/139342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Çocuk" tvg-logo="http://myserveriptv.com:2082/images/9minikacocuk.png" group-title="Turkey",TR: Minika Çocuk
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Diyanet Çocuk" tvg-logo="https://16k.xyz/images/1diyanetcocuk.png" group-title="Turkey",TR: TRT Diyanet Çocuk
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA Ilkokul" tvg-logo="" group-title="Turkey",TR: TRT EBA Ilkokul
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Baby Tv" tvg-logo="https://16k.xyz/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png" group-title="Turkey",TR: Baby Tv
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cartoon Network" tvg-logo="https://16k.xyz/images/8384404719f745b303e5c2d0b292f6fa.png" group-title="Turkey",TR: Cartoon Network
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Jr." tvg-logo="http://myserveriptv.com:2082/images/djunir.png" group-title="Turkey",TR: Disney Jr.
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI LEARNING" tvg-logo="http://myserveriptv.com:2082/images/15davincilearning.png" group-title="Turkey",TR: DA VINCI LEARNING
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nick Jr." tvg-logo="http://myserveriptv.com:2082/images/158ce63edef35757141d03f92d2a4b0c.png" group-title="Turkey",TR: Nick Jr.
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moonbug" tvg-logo="https://16k.xyz/images/moonbug.png" group-title="Turkey",TR: Moonbug
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KUKULLI" tvg-logo="http://myserveriptv.com:2082/images/11kukulli.png" group-title="Turkey",TR: KUKULLI
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: PEPEE" tvg-logo="http://myserveriptv.com:2082/images/7pepee.png" group-title="Turkey",TR: PEPEE
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL SAKIR" tvg-logo="http://myserveriptv.com:2082/images/12kralsakir.png" group-title="Turkey",TR: KRAL SAKIR
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Hey Kids" tvg-logo="https://16k.xyz/images/10heykids.png" group-title="Turkey",TR: Hey Kids
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: PERI MASALLARI" tvg-logo="https://16k.xyz/images/6perimasalları.png" group-title="Turkey",TR: PERI MASALLARI
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: PISI" tvg-logo="https://16k.xyz/images/5pisi.png" group-title="Turkey",TR: PISI
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SEKER HOCA" tvg-logo="https://16k.xyz/images/4sekerhoca.png" group-title="Turkey",TR: SEKER HOCA
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SEVIMLI DOSTLAR" tvg-logo="http://myserveriptv.com:2082/images/3sevimlidostlar.png" group-title="Turkey",TR: SEVIMLI DOSTLAR
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: THE LOONEY TUNES 2" tvg-logo="https://16k.xyz/images/2thelooneytunes.png" group-title="Turkey",TR: THE LOONEY TUNES 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 1" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="Turkey",TR: Tivibu Spor 1
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 2" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="Turkey",TR: Tivibu Spor 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 3" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="Turkey",TR: Tivibu Spor 3
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Smart Spor 1 HD" tvg-logo="http://myserveriptv.com:2082/images/0c8904c64e3a265a15874b82636e9316.png" group-title="Turkey",TR: Smart Spor 1 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sports TV HD" tvg-logo="http://myserveriptv.com:2082/images/0b65e662e40a68723215fcf13b55b252.png" group-title="Turkey",TR: Sports TV HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="Turkey",TR: Eurosport 1
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="Turkey",TR: Eurosport 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor" tvg-logo="http://myserveriptv.com:2082/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="Turkey",TR: TRT Spor
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="http://myserveriptv.com:2082/images/6127a41e8ee30716c817fc7b479cbb48.png" group-title="Turkey",TR: TRT SPOR YILDIZ HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Spor" tvg-logo="http://myserveriptv.com:2082/images/c074eeb1e19363198f9b644c92a89260.png" group-title="Turkey",TR: A Spor
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport 1 HD" tvg-logo="http://myserveriptv.com:2082/images/65c0f060ab4b694311df4b1e4098f282.png" group-title="Turkey",TR: S Sport 1 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/229667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV" tvg-logo="" group-title="Turkey",TR: FB TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 4" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="Turkey",TR: Tivibu Spor 4
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/241035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TJK" tvg-logo="" group-title="Turkey",TR: TJK
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/241049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT Spor HD" tvg-logo="" group-title="Turkey",TR: HT Spor HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Smart Spor 2 HD" tvg-logo="http://myserveriptv.com:2082/images/0c8904c64e3a265a15874b82636e9316.png" group-title="Turkey",TR: Smart Spor 2 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRIC VE SATRANC TV" tvg-logo="" group-title="Turkey",TR: BRIC VE SATRANC TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport 2 HD" tvg-logo="http://myserveriptv.com:2082/images/65c0f060ab4b694311df4b1e4098f282.png" group-title="Turkey",TR: S Sport 2 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 4K" tvg-logo="" group-title="Turkey",TR: TIVIBUSPOR 4K
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT +1 (Maç Saati Aktif)" tvg-logo="" group-title="Turkey",TR: S SPORT +1 (Maç Saati Aktif)
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT +2 (Maç Saati Aktif)" tvg-logo="" group-title="Turkey",TR: S SPORT +2 (Maç Saati Aktif)
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT +3 (Maç Saati Aktif)" tvg-logo="" group-title="Turkey",TR: S SPORT +3 (Maç Saati Aktif)
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT +4 (Maç Saati Aktif)" tvg-logo="" group-title="Turkey",TR: S SPORT +4 (Maç Saati Aktif)
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT +5 (Maç Saati Aktif)" tvg-logo="" group-title="Turkey",TR: S SPORT +5 (Maç Saati Aktif)
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT +6 (Maç Saati Aktif)" tvg-logo="" group-title="Turkey",TR: S SPORT +6 (Maç Saati Aktif)
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT +7 (Maç Saati Aktif)" tvg-logo="" group-title="Turkey",TR: S SPORT +7 (Maç Saati Aktif)
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT +8 (Maç Saati Aktif)" tvg-logo="" group-title="Turkey",TR: S SPORT +8 (Maç Saati Aktif)
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 HD" tvg-logo="" group-title="Turkey",TR: EXXEN SPORT 1 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 HD" tvg-logo="" group-title="Turkey",TR: EXXEN SPORT 2 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 HD" tvg-logo="" group-title="Turkey",TR: EXXEN SPORT 3 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 HD" tvg-logo="" group-title="Turkey",TR: EXXEN SPORT 4 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 HD" tvg-logo="" group-title="Turkey",TR: EXXEN SPORT 5 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 HD" tvg-logo="" group-title="Turkey",TR: EXXEN SPORT 6 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 HD" tvg-logo="" group-title="Turkey",TR: EXXEN SPORT 7 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 HD" tvg-logo="" group-title="Turkey",TR: EXXEN SPORT 8 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII TV HD" tvg-logo="" group-title="Turkey",TR: TABII TV HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR HD" tvg-logo="" group-title="Turkey",TR: TABII SPOR HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 1 HD" tvg-logo="" group-title="Turkey",TR: TABII SPOR 1 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 2 HD" tvg-logo="" group-title="Turkey",TR: TABII SPOR 2 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 3 HD" tvg-logo="" group-title="Turkey",TR: TABII SPOR 3 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 4 HD" tvg-logo="" group-title="Turkey",TR: TABII SPOR 4 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 5 HD" tvg-logo="" group-title="Turkey",TR: TABII SPOR 5 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 6 HD" tvg-logo="" group-title="Turkey",TR: TABII SPOR 6 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPOR 7 HD" tvg-logo="" group-title="Turkey",TR: TABII SPOR 7 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" tvg-logo="" group-title="Turkey",TR: NBA TV HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT BOX HD" tvg-logo="" group-title="Turkey",TR: FIGHT BOX HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT NETWORK HD" tvg-logo="" group-title="Turkey",TR: FIGHT NETWORK HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: UFC FIGHT PASS HD" tvg-logo="" group-title="Turkey",TR: UFC FIGHT PASS HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV HD" tvg-logo="" group-title="Turkey",TR: GS TV HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/324229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="Turkey",TR: beIN Movies Premier
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="Turkey",TR: beIN Movies Premier 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" group-title="Turkey",TR: beIN Movies Stars
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action" tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="Turkey",TR: beIN Movies Action
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Turk" tvg-logo="https://16k.xyz/images/80e0593a98643f551372665f61d7df2f.png" group-title="Turkey",TR: beIN Movies Turk
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Classic" tvg-logo="http://myserveriptv.com:2082/images/75dcb86a0f25925f6f57cea0780ccfee.png" group-title="Turkey",TR: Moviesmart Classic
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Yerli" tvg-logo="http://myserveriptv.com:2082/images/0d849171f2f5937936bafc4a363276ae.png" group-title="Turkey",TR: Sinema Yerli
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1002" tvg-logo="http://myserveriptv.com:2082/images/e34350893eb1457f7c9476f6308bab45.png" group-title="Turkey",TR: Sinema TV 1002
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/113590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi" tvg-logo="http://myserveriptv.com:2082/images/28277dd9d204e029009f2ad3546408b0.png" group-title="Turkey",TR: Sinema Komedi
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/113593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dizi Smart Premium" tvg-logo="http://myserveriptv.com:2082/images/e0b0d0f97c885aa2094a94890645a1b6.png" group-title="Turkey",TR: Dizi Smart Premium
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/129145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 2" tvg-logo="http://myserveriptv.com:2082/images/94f04d79e092c746787c7410e3488fd9.png" group-title="Turkey",TR: Sinema TV 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/138654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1001" tvg-logo="http://myserveriptv.com:2082/images/47685c68748efcc06f7cf97fb615f605.png" group-title="Turkey",TR: Sinema TV 1001
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/138657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi 2" tvg-logo="http://myserveriptv.com:2082/images/36dcd79ad66d8d23fe8d51622652907a.png" group-title="Turkey",TR: Sinema Komedi 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/138658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="Turkey",TR: beIN Series 1
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/144690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="https://16k.xyz/images/06caa8cf1237174d03e61498252b9527.png" group-title="Turkey",TR: beIN Series 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/144691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dizi 4K" tvg-logo="https://16k.xyz/images/6ce3510b2f1e7bd825b5b85a85bd117c.png" group-title="Turkey",TR: Dizi 4K
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/209946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 3" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="Turkey",TR: beIN Series 3
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/236255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 1" tvg-logo="" group-title="Turkey",TR: beIN Box Office 1
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 2" tvg-logo="" group-title="Turkey",TR: beIN Box Office 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 3" tvg-logo="" group-title="Turkey",TR: beIN Box Office 3
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD" tvg-logo="" group-title="Turkey",TR: FX HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aile" tvg-logo="" group-title="Turkey",TR: Sinema Aile
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aile 2" tvg-logo="" group-title="Turkey",TR: Sinema Aile 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aksiyon" tvg-logo="" group-title="Turkey",TR: Sinema Aksiyon
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aksiyon 2" tvg-logo="" group-title="Turkey",TR: Sinema Aksiyon 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo="http://myserveriptv.com:2082/images/c599760036bcf57fde883151b7150c2b.png" group-title="Turkey",TR: TLC
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Tv" tvg-logo="" group-title="Turkey",TR: Tabii Tv
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/250371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 4" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" group-title="Turkey",TR: beIN Series 4
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKOL TV" tvg-logo="" group-title="Turkey",TR: EKOL TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Yerli 2" tvg-logo="http://myserveriptv.com:2082/images/0d849171f2f5937936bafc4a363276ae.png" group-title="Turkey",TR: Sinema Yerli 2
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Magic Box" tvg-logo="" group-title="Turkey",TR: Magic Box
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Film BOX HD" tvg-logo="" group-title="Turkey",TR: Film BOX HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Yesilcam HD" tvg-logo="" group-title="Turkey",TR: Filmbox Yesilcam HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Yerli HD" tvg-logo="" group-title="Turkey",TR: Filmbox Yerli HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SiNEMAX COMEDY HD" tvg-logo="" group-title="Turkey",TR: SiNEMAX COMEDY HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SiNEMAX FAMiLY HD" tvg-logo="" group-title="Turkey",TR: SiNEMAX FAMiLY HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SiNEMAX NOSTALJiA HD" tvg-logo="" group-title="Turkey",TR: SiNEMAX NOSTALJiA HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SiNEMAX TURK HD" tvg-logo="" group-title="Turkey",TR: SiNEMAX TURK HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dizi Smart Max" tvg-logo="" group-title="Turkey",TR: Dizi Smart Max
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100" tvg-logo="http://myserveriptv.com:2082/images/574b86ce3bedb4f4ec880490c59bdfb8.png" group-title="Turkey",TR: TV 100
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT World" tvg-logo="http://myserveriptv.com:2082/images/726b05251dee86aade2bef24376c60d9.png" group-title="Turkey",TR: TRT World
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tele 1" tvg-logo="http://myserveriptv.com:2082/images/36c3fe538201168513e73c3b125aa9ee.png" group-title="Turkey",TR: Tele 1
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Haber" tvg-logo="http://myserveriptv.com:2082/images/761f93a3a79366d9c147040f397c14f4.png" group-title="Turkey",TR: TGRT Haber
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Haber" tvg-logo="http://myserveriptv.com:2082/images/3a7414797b97172eb10804614f7a5e73.png" group-title="Turkey",TR: A Haber
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Para HD" tvg-logo="http://myserveriptv.com:2082/images/958c5e3d755339cf487aeb3ac3450923.png" group-title="Turkey",TR: A Para HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bloomberg" tvg-logo="http://myserveriptv.com:2082/images/1869c8bd48f7e1ee884d0a2c0f23bf34.png" group-title="Turkey",TR: Bloomberg
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Global Haber" tvg-logo="http://myserveriptv.com:2082/images/943faf83f158bd16d442dafe2086f748.png" group-title="Turkey",TR: Global Haber
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Turk" tvg-logo="http://myserveriptv.com:2082/images/943faf83f158bd16d442dafe2086f748.png" group-title="Turkey",TR: Haber Turk
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Haber" tvg-logo="http://myserveriptv.com:2082/images/3e1ec298e0c1adcb12a51c6e112cc017.png" group-title="Turkey",TR: TRT Haber
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ulke TV" tvg-logo="http://myserveriptv.com:2082/images/b61697b5f700973e61d1d2a106c6a9d0.png" group-title="Turkey",TR: Ulke TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HABER" tvg-logo="http://myserveriptv.com:2082/images/a37a65eb968bab355004a71cd16a660b.png" group-title="Turkey",TR: NTV HABER
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/77495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A News Turkey EN" tvg-logo="http://myserveriptv.com:2082/images/anews.png" group-title="Turkey",TR: A News Turkey EN
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akit TV" tvg-logo="" group-title="Turkey",TR: Akit TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ulusal TV" tvg-logo="" group-title="Turkey",TR: Ulusal TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Halk TV" tvg-logo="" group-title="Turkey",TR: Halk TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 5" tvg-logo="" group-title="Turkey",TR: TV 5
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/242643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SÖZCÜ TV" tvg-logo="" group-title="Turkey",TR: SÖZCÜ TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/242644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN Turk" tvg-logo="http://myserveriptv.com:2082/images/2f2c9ac6fa8c14f19f31b453bd7f6905.png" group-title="Turkey",TR: CNN Turk
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/250362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT" tvg-logo="" group-title="Turkey",TR: KRT
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/250363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV NET" tvg-logo="" group-title="Turkey",TR: TV NET
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/250364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eko Turk" tvg-logo="" group-title="Turkey",TR: Eko Turk
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: VATAN TV" tvg-logo="" group-title="Turkey",TR: VATAN TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BENGUTURK TV" tvg-logo="" group-title="Turkey",TR: BENGUTURK TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MECLIS TV" tvg-logo="" group-title="Turkey",TR: MECLIS TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH HABER" tvg-logo="" group-title="Turkey",TR: FLASH HABER
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIDER HABER" tvg-logo="" group-title="Turkey",TR: LIDER HABER
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Line Tv" tvg-logo="" group-title="Turkey",TR: Line Tv
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cay TV" tvg-logo="" group-title="Turkey",TR: Cay TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kayseri TV" tvg-logo="" group-title="Turkey",TR: Kayseri TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/237806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yildiz En tv" tvg-logo="" group-title="Turkey",TR: Yildiz En tv
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/241045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivi 6" tvg-logo="" group-title="Turkey",TR: Tivi 6
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/255203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ER TV" tvg-logo="" group-title="Turkey",TR: ER TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: AS TV" tvg-logo="" group-title="Turkey",TR: AS TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SUNNAH TV" tvg-logo="" group-title="Turkey",TR: SUNNAH TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kardelen TV Erzurum" tvg-logo="" group-title="Turkey",TR: Kardelen TV Erzurum
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 15 HD" tvg-logo="" group-title="Turkey",TR: KANAL 15 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KENT TURK HD" tvg-logo="" group-title="Turkey",TR: KENT TURK HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 23 HD" tvg-logo="" group-title="Turkey",TR: KANAL 23 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 26" tvg-logo="" group-title="Turkey",TR: KANAL 26
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: GAZIANTEP OLAY TV" tvg-logo="" group-title="Turkey",TR: GAZIANTEP OLAY TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ TV" tvg-logo="" group-title="Turkey",TR: MAVI KARADENIZ TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKSU TV" tvg-logo="" group-title="Turkey",TR: AKSU TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEK RUMELI TV" tvg-logo="" group-title="Turkey",TR: TEK RUMELI TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 41 HD" tvg-logo="" group-title="Turkey",TR: TV 41 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 42 HD" tvg-logo="" group-title="Turkey",TR: KANAL 42 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KON TV" tvg-logo="" group-title="Turkey",TR: KON TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL FIRAT HD" tvg-logo="" group-title="Turkey",TR: KANAL FIRAT HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL V HD" tvg-logo="" group-title="Turkey",TR: KANAL V HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ES TV" tvg-logo="" group-title="Turkey",TR: ES TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 12 HD" tvg-logo="" group-title="Turkey",TR: KANAL 12 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ALANYA POSTA TV" tvg-logo="" group-title="Turkey",TR: ALANYA POSTA TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: VUSLAT TV" tvg-logo="" group-title="Turkey",TR: VUSLAT TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL URFA" tvg-logo="" group-title="Turkey",TR: KANAL URFA
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 52" tvg-logo="" group-title="Turkey",TR: TV 52
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV264" tvg-logo="" group-title="Turkey",TR: TV264
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 32" tvg-logo="" group-title="Turkey",TR: KANAL 32
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 33 HD" tvg-logo="" group-title="Turkey",TR: KANAL 33 HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: HRT TV" tvg-logo="" group-title="Turkey",TR: HRT TV
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/302130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: GRT" tvg-logo="" group-title="Turkey",TR: GRT
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/315002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Comedy HD" tvg-logo="" group-title="Turkey",TR: Filmbox Comedy HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/325609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Action HD" tvg-logo="" group-title="Turkey",TR: Filmbox Action HD
+http://iptvch.com:2082/live/worldiptv/d4Ms45lWwKD9yd7N/325610.m3u8
